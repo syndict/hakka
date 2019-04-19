@@ -50,6 +50,14 @@ speller:
   delimiter: " '"
   algebra:
     - derive/([123456])//         # 忽略声调
+    - derive/au/ao/         # 模糊音
+    - derive/zh/z/         # 模糊音
+    - derive/ch/c/         # 模糊音
+    - derive/sh/s/         # 模糊音
+    - derive/j/z/         # 模糊音
+    - derive/q/c/         # 模糊音
+    - derive/x/c/         # 模糊音
+    - derive/nj/ng/         # 模糊音
 
 translator:
   dictionary: hakka
