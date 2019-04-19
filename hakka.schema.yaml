@@ -54,9 +54,9 @@ speller:
     - derive/zh/z/         # 模糊音
     - derive/ch/c/         # 模糊音
     - derive/sh/s/         # 模糊音
-    - derive/j/z/         # 模糊音
-    - derive/q/c/         # 模糊音
-    - derive/x/c/         # 模糊音
+    - derive/z/j/         # 模糊音
+    - derive/c/q/         # 模糊音
+    - derive/s/x/         # 模糊音
     - derive/nj/ng/         # 模糊音
 
 translator:
